@@ -6,3 +6,4 @@ Collection of NLP projects
 - Text Summarization
 - Text Categorization
 - Next Sentence Prediction
+- Language Detection using ML
